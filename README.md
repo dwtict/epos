@@ -1,4 +1,4 @@
 epos
 ====
 
-EPOS System for DWT retails outlets
+EPOS System for DWT retail outlets
